@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Lam\Lam\bin\Debug\netcoreapp2.1\Lam.deps.json
+C:\Users\HA\source\repos\Lam\Lam\bin\Debug\netcoreapp2.1\Lam.runtimeconfig.json
+C:\Users\HA\source\repos\Lam\Lam\bin\Debug\netcoreapp2.1\Lam.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Lam\Lam\bin\Debug\netcoreapp2.1\Lam.dll
+C:\Users\HA\source\repos\Lam\Lam\bin\Debug\netcoreapp2.1\Lam.pdb
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.AssemblyInfo.cs
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.dll
+C:\Users\HA\source\repos\Lam\Lam\obj\Debug\netcoreapp2.1\Lam.pdb

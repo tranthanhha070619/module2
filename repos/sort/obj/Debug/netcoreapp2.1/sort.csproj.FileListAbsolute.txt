@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\sort\bin\Debug\netcoreapp2.1\sort.deps.json
+C:\Users\HA\source\repos\sort\bin\Debug\netcoreapp2.1\sort.runtimeconfig.json
+C:\Users\HA\source\repos\sort\bin\Debug\netcoreapp2.1\sort.runtimeconfig.dev.json
+C:\Users\HA\source\repos\sort\bin\Debug\netcoreapp2.1\sort.dll
+C:\Users\HA\source\repos\sort\bin\Debug\netcoreapp2.1\sort.pdb
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.AssemblyInfo.cs
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.dll
+C:\Users\HA\source\repos\sort\obj\Debug\netcoreapp2.1\sort.pdb

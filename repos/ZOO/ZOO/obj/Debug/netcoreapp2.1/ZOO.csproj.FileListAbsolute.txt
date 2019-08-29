@@ -1,0 +1,4 @@
+C:\Users\HA\source\repos\ZOO\ZOO\obj\Debug\netcoreapp2.1\ZOO.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\ZOO\ZOO\obj\Debug\netcoreapp2.1\ZOO.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\ZOO\ZOO\obj\Debug\netcoreapp2.1\ZOO.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\ZOO\ZOO\obj\Debug\netcoreapp2.1\ZOO.AssemblyInfo.cs

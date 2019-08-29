@@ -1,0 +1,14 @@
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.csprojAssemblyReference.cache
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.csproj.CoreCompileInputs.cache
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.exe.config
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.exe
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.pdb
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.exe
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.pdb
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.exe.CodeAnalysisLog.xml
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.exe.lastcodeanalysissucceeded
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.exe.manifest
+D:\modul2\BasicExercises\BasicExercises\bin\Debug\BasicExercises.application
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.TrustInfo.xml
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.exe.manifest
+D:\modul2\BasicExercises\BasicExercises\obj\Debug\BasicExercises.application

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi tiền tệ </title>
+</head>
+<body>
+    <table >
+        <tr>
+            <th>Amount</th>
+            <th>From Currency</th>
+            <th>To Currency</th>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" value="" id="Amount">
+            </td>
+            <td>
+                <select name="from" id="from">
+                    <option value="fVND">VietNam(VND)</option>
+                    <option value="fUSD">My(USD)</option>                        
+                </select>
+            </td>
+            <td> 
+                <select name="to" id="to">
+                   <option value="tUSD">My(USD)</option>
+                   <option value="tVND">VietNam(VND)</option>
+                </select>
+            </td>
+            <td>
+                <input id="convert" type="submit" value= "Convert" onclick="chuyentien()" >
+            </td>
+        </tr>
+    </table>
+    <div id="ketqua">Ket qua la: </div>
+    <script>
+        function chuyentien(){
+            let amount = document.getElementById('Amount').value;
+            let amountFloat = parseFloat(amount);
+            let result;
+            let fvalue = document.getElementById('from').value;
+            let tvalue = document.getElementById('to').value;
+            let fmy = fvalue === 'fUSD';
+            let fviet = fvalue === 'fVND';
+            let tmy = tvalue === 'tUSD';
+            let tviet = tvalue === 'tVND'; 
+            const vietmy = 1/23000;
+            const myviet = 23000;
+            if(fviet && tmy){
+                result = amountFloat*vietmy;
+            }else if (fmy && tviet){
+                result = amountFloat*myviet;
+            }else{
+                result = amountFloat;
+            }
+            if(result<0){
+                alert('nhap lai: ');
+            }else{
+            document.getElementById("ketqua").innerHTML= 'Ket qua la: ' + result ;
+           }
+        }
+    </script>
+</body>
+</html>

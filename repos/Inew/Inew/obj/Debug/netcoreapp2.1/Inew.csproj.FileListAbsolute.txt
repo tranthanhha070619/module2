@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.AssemblyInfo.cs
+C:\Users\HA\source\repos\Inew\Inew\bin\Debug\netcoreapp2.1\Inew.deps.json
+C:\Users\HA\source\repos\Inew\Inew\bin\Debug\netcoreapp2.1\Inew.runtimeconfig.json
+C:\Users\HA\source\repos\Inew\Inew\bin\Debug\netcoreapp2.1\Inew.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Inew\Inew\bin\Debug\netcoreapp2.1\Inew.dll
+C:\Users\HA\source\repos\Inew\Inew\bin\Debug\netcoreapp2.1\Inew.pdb
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.dll
+C:\Users\HA\source\repos\Inew\Inew\obj\Debug\netcoreapp2.1\Inew.pdb

@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Olala\Olala\bin\Debug\netcoreapp2.1\Olala.deps.json
+C:\Users\HA\source\repos\Olala\Olala\bin\Debug\netcoreapp2.1\Olala.runtimeconfig.json
+C:\Users\HA\source\repos\Olala\Olala\bin\Debug\netcoreapp2.1\Olala.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Olala\Olala\bin\Debug\netcoreapp2.1\Olala.dll
+C:\Users\HA\source\repos\Olala\Olala\bin\Debug\netcoreapp2.1\Olala.pdb
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.AssemblyInfo.cs
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.dll
+C:\Users\HA\source\repos\Olala\Olala\obj\Debug\netcoreapp2.1\Olala.pdb

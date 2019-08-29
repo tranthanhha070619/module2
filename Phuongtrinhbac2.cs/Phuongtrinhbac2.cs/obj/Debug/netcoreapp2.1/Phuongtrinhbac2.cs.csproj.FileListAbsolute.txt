@@ -1,0 +1,11 @@
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\bin\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.deps.json
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\bin\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.runtimeconfig.json
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\bin\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.runtimeconfig.dev.json
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\bin\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.dll
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\bin\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.pdb
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.csprojAssemblyReference.cache
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.csproj.CoreCompileInputs.cache
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.AssemblyInfoInputs.cache
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.AssemblyInfo.cs
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.dll
+D:\modul2\Phuongtrinhbac2.cs\Phuongtrinhbac2.cs\obj\Debug\netcoreapp2.1\Phuongtrinhbac2.cs.pdb

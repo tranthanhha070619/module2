@@ -1,0 +1,11 @@
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.csprojAssemblyReference.cache
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.csproj.CoreCompileInputs.cache
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.AssemblyInfoInputs.cache
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.AssemblyInfo.cs
+D:\modul2\Sinhvien\Sinhvien\bin\Debug\netcoreapp2.1\Sinhvien.deps.json
+D:\modul2\Sinhvien\Sinhvien\bin\Debug\netcoreapp2.1\Sinhvien.runtimeconfig.json
+D:\modul2\Sinhvien\Sinhvien\bin\Debug\netcoreapp2.1\Sinhvien.runtimeconfig.dev.json
+D:\modul2\Sinhvien\Sinhvien\bin\Debug\netcoreapp2.1\Sinhvien.dll
+D:\modul2\Sinhvien\Sinhvien\bin\Debug\netcoreapp2.1\Sinhvien.pdb
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.dll
+D:\modul2\Sinhvien\Sinhvien\obj\Debug\netcoreapp2.1\Sinhvien.pdb

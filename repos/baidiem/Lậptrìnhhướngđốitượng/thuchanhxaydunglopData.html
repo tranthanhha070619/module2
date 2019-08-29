@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  class thongtin{
+        constructor(day,month,year,sothich){
+       this.day = day;
+       this.month = month;
+       this.year = year;
+        this.sothich = sothich;
+   }
+    getDay(){
+        return this.day;
+    }
+    getMonth(){
+        return this.month;
+    }
+    getYear (){
+        return this.year;
+   } 
+   getSothich(){
+       return this.sothich;
+   }
+   setDay(day){
+       this.day = day;
+   }
+   print (){
+        alert('tôi sinh ngày: ' + this.day + 'tháng '+ this.month + 'năm ' + this.year + 'so thich ' + this.sothich);
+   }
+  }
+        var ha = new thongtin(7,6,1994,"cau ca");
+     ha.print();
+    ha.setDay(8);
+    ha.print();
+</script>
+</body>
+</html>

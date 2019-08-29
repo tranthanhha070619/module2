@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.AssemblyInfo.cs
+C:\Users\HA\source\repos\Telephones\Telephones\bin\Debug\netcoreapp2.1\Telephones.deps.json
+C:\Users\HA\source\repos\Telephones\Telephones\bin\Debug\netcoreapp2.1\Telephones.runtimeconfig.json
+C:\Users\HA\source\repos\Telephones\Telephones\bin\Debug\netcoreapp2.1\Telephones.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Telephones\Telephones\bin\Debug\netcoreapp2.1\Telephones.dll
+C:\Users\HA\source\repos\Telephones\Telephones\bin\Debug\netcoreapp2.1\Telephones.pdb
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.dll
+C:\Users\HA\source\repos\Telephones\Telephones\obj\Debug\netcoreapp2.1\Telephones.pdb

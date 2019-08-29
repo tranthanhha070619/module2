@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.AssemblyInfo.cs
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\bin\Debug\netcoreapp2.1\Marksstudent.deps.json
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\bin\Debug\netcoreapp2.1\Marksstudent.runtimeconfig.json
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\bin\Debug\netcoreapp2.1\Marksstudent.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\bin\Debug\netcoreapp2.1\Marksstudent.dll
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\bin\Debug\netcoreapp2.1\Marksstudent.pdb
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.dll
+C:\Users\HA\source\repos\Marksstudent\Marksstudent\obj\Debug\netcoreapp2.1\Marksstudent.pdb

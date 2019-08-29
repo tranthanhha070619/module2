@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.1\ThucHanh.deps.json
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.1\ThucHanh.runtimeconfig.json
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.1\ThucHanh.runtimeconfig.dev.json
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.1\ThucHanh.dll
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\bin\Debug\netcoreapp2.1\ThucHanh.pdb
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.AssemblyInfo.cs
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.dll
+C:\Users\HA\source\repos\ThucHanh\ThucHanh\obj\Debug\netcoreapp2.1\ThucHanh.pdb

@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.AssemblyInfo.cs
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\bin\Debug\netcoreapp2.1\mang2chieu.deps.json
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\bin\Debug\netcoreapp2.1\mang2chieu.runtimeconfig.json
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\bin\Debug\netcoreapp2.1\mang2chieu.runtimeconfig.dev.json
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\bin\Debug\netcoreapp2.1\mang2chieu.dll
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\bin\Debug\netcoreapp2.1\mang2chieu.pdb
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.dll
+C:\Users\HA\source\repos\mang2chieu\mang2chieu\obj\Debug\netcoreapp2.1\mang2chieu.pdb

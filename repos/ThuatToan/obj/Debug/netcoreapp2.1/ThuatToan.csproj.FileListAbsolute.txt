@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\ThuatToan\bin\Debug\netcoreapp2.1\ThuatToan.deps.json
+C:\Users\HA\source\repos\ThuatToan\bin\Debug\netcoreapp2.1\ThuatToan.runtimeconfig.json
+C:\Users\HA\source\repos\ThuatToan\bin\Debug\netcoreapp2.1\ThuatToan.runtimeconfig.dev.json
+C:\Users\HA\source\repos\ThuatToan\bin\Debug\netcoreapp2.1\ThuatToan.dll
+C:\Users\HA\source\repos\ThuatToan\bin\Debug\netcoreapp2.1\ThuatToan.pdb
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.AssemblyInfo.cs
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.dll
+C:\Users\HA\source\repos\ThuatToan\obj\Debug\netcoreapp2.1\ThuatToan.pdb

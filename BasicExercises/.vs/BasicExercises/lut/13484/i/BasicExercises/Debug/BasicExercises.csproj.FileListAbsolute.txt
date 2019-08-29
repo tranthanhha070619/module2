@@ -1,0 +1,11 @@
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\b\BasicExercises.exe.config
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\b\BasicExercises.exe.manifest
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\b\BasicExercises.application
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\b\BasicExercises.exe
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.csprojAssemblyReference.cache
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.csproj.CoreCompileInputs.cache
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.TrustInfo.xml
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.exe.manifest
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.application
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.csproj.CopyComplete
+D:\modul2\BasicExercises\.vs\BasicExercises\lut\0\i\BasicExercises\Debug\BasicExercises.exe

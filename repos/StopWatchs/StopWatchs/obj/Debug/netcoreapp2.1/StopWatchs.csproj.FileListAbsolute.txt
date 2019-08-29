@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\bin\Debug\netcoreapp2.1\StopWatchs.deps.json
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\bin\Debug\netcoreapp2.1\StopWatchs.runtimeconfig.json
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\bin\Debug\netcoreapp2.1\StopWatchs.runtimeconfig.dev.json
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\bin\Debug\netcoreapp2.1\StopWatchs.dll
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\bin\Debug\netcoreapp2.1\StopWatchs.pdb
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.AssemblyInfo.cs
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.dll
+C:\Users\HA\source\repos\StopWatchs\StopWatchs\obj\Debug\netcoreapp2.1\StopWatchs.pdb

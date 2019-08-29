@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\Fans\Fans\bin\Debug\netcoreapp2.1\Fans.deps.json
+C:\Users\HA\source\repos\Fans\Fans\bin\Debug\netcoreapp2.1\Fans.runtimeconfig.json
+C:\Users\HA\source\repos\Fans\Fans\bin\Debug\netcoreapp2.1\Fans.runtimeconfig.dev.json
+C:\Users\HA\source\repos\Fans\Fans\bin\Debug\netcoreapp2.1\Fans.dll
+C:\Users\HA\source\repos\Fans\Fans\bin\Debug\netcoreapp2.1\Fans.pdb
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.AssemblyInfo.cs
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.dll
+C:\Users\HA\source\repos\Fans\Fans\obj\Debug\netcoreapp2.1\Fans.pdb
