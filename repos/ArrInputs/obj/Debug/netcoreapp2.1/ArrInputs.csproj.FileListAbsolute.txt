@@ -1,0 +1,11 @@
+C:\Users\HA\source\repos\ArrInputs\bin\Debug\netcoreapp2.1\ArrInputs.deps.json
+C:\Users\HA\source\repos\ArrInputs\bin\Debug\netcoreapp2.1\ArrInputs.runtimeconfig.json
+C:\Users\HA\source\repos\ArrInputs\bin\Debug\netcoreapp2.1\ArrInputs.runtimeconfig.dev.json
+C:\Users\HA\source\repos\ArrInputs\bin\Debug\netcoreapp2.1\ArrInputs.dll
+C:\Users\HA\source\repos\ArrInputs\bin\Debug\netcoreapp2.1\ArrInputs.pdb
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.csprojAssemblyReference.cache
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.AssemblyInfo.cs
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.dll
+C:\Users\HA\source\repos\ArrInputs\obj\Debug\netcoreapp2.1\ArrInputs.pdb
