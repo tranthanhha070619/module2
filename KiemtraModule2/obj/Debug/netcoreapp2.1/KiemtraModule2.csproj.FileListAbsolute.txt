@@ -1,0 +1,10 @@
+C:\Users\HA\source\repos\KiemtraModule2\obj\Debug\netcoreapp2.1\KiemtraModule2.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\KiemtraModule2\obj\Debug\netcoreapp2.1\KiemtraModule2.AssemblyInfoInputs.cache
+C:\Users\HA\source\repos\KiemtraModule2\obj\Debug\netcoreapp2.1\KiemtraModule2.AssemblyInfo.cs
+C:\Users\HA\source\repos\KiemtraModule2\bin\Debug\netcoreapp2.1\KiemtraModule2.deps.json
+C:\Users\HA\source\repos\KiemtraModule2\bin\Debug\netcoreapp2.1\KiemtraModule2.runtimeconfig.json
+C:\Users\HA\source\repos\KiemtraModule2\bin\Debug\netcoreapp2.1\KiemtraModule2.runtimeconfig.dev.json
+C:\Users\HA\source\repos\KiemtraModule2\bin\Debug\netcoreapp2.1\KiemtraModule2.dll
+C:\Users\HA\source\repos\KiemtraModule2\bin\Debug\netcoreapp2.1\KiemtraModule2.pdb
+C:\Users\HA\source\repos\KiemtraModule2\obj\Debug\netcoreapp2.1\KiemtraModule2.dll
+C:\Users\HA\source\repos\KiemtraModule2\obj\Debug\netcoreapp2.1\KiemtraModule2.pdb
